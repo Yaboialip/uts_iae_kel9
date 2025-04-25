@@ -9,7 +9,6 @@ Repositori ini berisi 3 layanan Laravel yang saling terintegrasi:
 - **Service A (Pelanggan_service)** – Service data pelanggan CRUD
 - **Service B (Produk_service)** – Service data Produk CRUD
 - **Service C (Order_service)** – Service data Order CRUD
-- 
 
 ## 🧱 Struktur Folder
 
