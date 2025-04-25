@@ -3,6 +3,8 @@
 Nama Kelompok 9
 Anggota : 
 Alief sukma dewanta (1204220030)
+Ramadhani Vanva F (1204220068)
+Stephanie Debora Assa
 
 Repositori ini berisi 3 layanan Laravel yang saling terintegrasi:
 
